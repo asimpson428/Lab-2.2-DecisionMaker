@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class DecisionMaking {
+
+	public static void main(String[] args) {
+	
+	System.out.println("Please enter a number between 1 and 100:");
+	
+	Scanner scnr = new Scanner(System.in);
+	
+	int i;
+	
+	
+
+	}
+
+}
